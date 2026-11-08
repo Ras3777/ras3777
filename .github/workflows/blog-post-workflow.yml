@@ -1,0 +1,27 @@
+name: Latest Blog Posts
+
+# Enable the schedule below ONLY after you set a real RSS feed in `feed_list`.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 6 * * *"   # daily at 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with your own feed, e.g. https://dev.to/feed/<username>
+          # or https://medium.com/feed/@<username> or https://<you>.hashnode.dev/rss.xml
+          feed_list: "https://dev.to/feed/YOUR_USERNAME"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST"
+          commit_message: "docs: update latest blog posts"
