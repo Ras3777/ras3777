@@ -193,43 +193,6 @@ flowchart LR
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/ras3777">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ras3777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/ras3777">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ras3777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ras3777&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ras3777&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ras3777/ras3777/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ras3777/ras3777/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ras3777/ras3777/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -251,7 +214,7 @@ flowchart LR
 
 ## 🤝 Let’s Connect
 
-I’m open to **backend / full-stack roles and contracts** focused on enterprise workflows, internal tools, CMMS and ERP systems. If you’re replacing spreadsheets with something dependable, I’d love to talk.
+I’m open to **full-stack roles and contracts/fulltime** focused on enterprise workflows, internal tools, CMMS and ERP systems. If you’re replacing spreadsheets with something dependable, I’d love to talk.
 
 <div align="center">
 
